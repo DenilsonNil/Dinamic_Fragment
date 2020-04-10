@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dinamic Fragment</string>
+    <string name="fr_one">FR_1</string>
+    <string name="fr_two">FR_2</string>
+    <string name="remover">Remover</string>
+</resources>
